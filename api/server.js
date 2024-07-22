@@ -10,7 +10,7 @@ server.use(middlewares);
 
 server.use(
   jsonServer.rewriter({
-    "/*": "/$1",
+    "/api/*": "/$1",
     "/blog/:resource/:id/show": "/:resource/:id",
   })
 );
