@@ -1,4 +1,10 @@
 {
   "get": [{ "version": "4.3.0", "title": "version-webapp", "author": "Bilog" }],
-  "posts": []
+  "posts": [
+    {
+      "title": "foo",
+      "body": "bar",
+      "userId": 1
+    }
+  ]
 }
