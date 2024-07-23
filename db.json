@@ -1,3 +1,4 @@
 {
-  "gets": [{ "version": "4.3.0", "title": "version-webapp", "author": "Bilog" }]
+  "get": [{ "version": "4.3.0", "title": "version-webapp", "author": "Bilog" }],
+  "posts": []
 }
